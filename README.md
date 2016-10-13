@@ -37,6 +37,7 @@ Install all the dependencies before using this scrapper.
 ```
 pip install BeautifulSoup
 pip install mechanize
+pip install fpdf
 ````
 
 
@@ -50,7 +51,7 @@ Currently supported:
 
 - [ ] Print output in `Prettytable` format
 - [ ] Allow search for Entertainment Channels
-- [ ] Provide option to save details as PDF
+- [x] Provide option to save details as PDF
 - [ ] Send notification to the user
 
 ### Contribute
